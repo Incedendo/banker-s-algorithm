@@ -1,0 +1,11 @@
+My lab is written in Pascal.
+
+The MAKEFILE  is included in the zip. You just need to type make to compile and type the command "./banker filename.txt" to run it
+
+I spent around 10 hours plus on this lab. The installation was easy because Debian has a very quick way of installing pascal straight from the command prompt
+
+Half the time was spent reading in the I/O, relearning pascal syntax for array, 2d array, function and subroutine.
+
+The program run as specified: ./banker filename.txt
+
+It has basic error checking to make sure the file name is entered.
